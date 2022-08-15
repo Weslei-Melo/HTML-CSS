@@ -13,10 +13,11 @@ Coteudo visto:
 - Semântica
 - Acessibilidade
 
-## Resiltado Final
+## Resultado Final
 
 <p align = "center"> 
     <img src=""images/ResultadoFinal.png>
+</p>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslei-melo-33552b82/)
