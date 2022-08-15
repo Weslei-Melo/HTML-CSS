@@ -9,9 +9,13 @@ Coteudo visto:
 - CSS
 - Criação de button
 - Importação de imagens
-- Estilos
+- Customização de fontes
 - Semântica
-- Acessibilidade
+- Acessibilidade nas aplicações web
+- Utilização da ferramenta FIGMA
+- Conhecendo o Dev tools do Browser
+- Posicionamento de elementos
+- Conceitos sobre Box Model e Flexbox
 
 ## Resultado Final
 
