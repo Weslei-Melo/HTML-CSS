@@ -15,8 +15,8 @@ Coteudo visto:
 
 ## Resultado Final
 
-<p align = "center"> 
-    <img src=""images/ResultadoFinal.png>
+<p> 
+    <img src="images/ResultadoFinal.png">
 </p>
 
 ## 🔗 Links
